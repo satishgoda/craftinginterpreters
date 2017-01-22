@@ -1,5 +1,5 @@
 !1285;s
-A
+J
 SAU0PATH+=%<JGRASP_PATHS>%;\012PATH=+%;%<JGRASP_C_PATHS>\012CYGWIN=nodosfilewarning\012GCC_COLORS=\012-Run\012ADD_EXE_PATH==Y\012
 SCU0PATH+=%<JGRASP_PATHS>%;\012PATH=+%;%<JGRASP_C_PATHS>\012CYGWIN=nodosfilewarning\012GCC_COLORS=\012-Run\012ADD_EXE_PATH==Y\012
 S+U0PATH+=%<JGRASP_PATHS>%;\012PATH=+%;%<JGRASP_C_PATHS>\012CYGWIN=nodosfilewarning\012GCC_COLORS=\012-Run\012ADD_EXE_PATH==Y\012
@@ -17,7 +17,9 @@ s#n0classes
 s#p0doc
 s#q0test
 s#w0canvas
-!21;g
+!43;g
 %\011src%sHello.java
-!21;f
+%\011src%sHello2.java
+!43;f
 %\011src%sHello.java
+%\011src%sHello2.java
